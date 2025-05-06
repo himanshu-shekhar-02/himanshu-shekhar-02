@@ -3,7 +3,7 @@
 
 - 🌱 I will love to work on **ReactJS and nextjs etc. also I have a keen interest in android development as well done various projects in JAVA, and trying out react native.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/battleplayer02/](https://github.com/battleplayer02/)
+- 👨‍💻 All of my projects are available at [https://github.com/battleplayer02/](https://github.com/himanshu-shekhar-02)
 
 - 📫 How to reach me, drop an email at **hshekhar499@gmail.com**
 
