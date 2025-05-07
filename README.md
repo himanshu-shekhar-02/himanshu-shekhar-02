@@ -3,16 +3,16 @@
 
 - 🌱 I will love to work on **ReactJS and nextjs etc. also I have a keen interest in android development as well done various projects in JAVA, and trying out react native.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/battleplayer02/](https://github.com/himanshu-shekhar-02)
+- 👨‍💻 All of my projects are available at [https://github.com/himanshu-shekhar-02/](https://github.com/himanshu-shekhar-02)
 
 - 📫 How to reach me, drop an email at **hshekhar499@gmail.com**
 
  <div>
- <img src="https://github-readme-stats.vercel.app/api?username=battleplayer02&show_icons=true" alt="fsiddh">
+ <img src="https://github-readme-stats.vercel.app/api?username=himanshu-shekhar-02&show_icons=true" alt="fsiddh">
  </div>
 
  <div>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=battleplayer02&show_icons=true&locale=en&layout=compact" alt="battleplayer02" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-shekhar-02&show_icons=true&locale=en&layout=compact" alt="himanshu-shekhar-02" />
  </div>
 
 
